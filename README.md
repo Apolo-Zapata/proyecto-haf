@@ -1,6 +1,6 @@
-proyecto-haf
-OBJETIVO
-Desarrollar un software que mejore el proceso, asignación, consulta y administración del formato en cual los horarios de
+#proyecto-haf
+##OBJETIVO
+###Desarrollar un software que mejore el proceso, asignación, consulta y administración del formato en cual los horarios de
 formación de instructores se encuentran dispuestos actualmente, generando así una eficiencia, especificación y exactitud 
 al momento de asignar y consultar los horarios por parte del coordinador e instructores.
 OBJETIVOS ESPECIFICOS 
